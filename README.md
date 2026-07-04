@@ -13,6 +13,8 @@
 | `01-architecture-analysis.md` | Part 1 — 원본 프롬프트의 아키텍처 분석; Part 2 — 약점 보고서; Part 3 — 개선 전략 |
 | `02-universal-master-os-prompt.md` | Part 4 — 범용 마스터 AI 운영체제 프롬프트 (모델 독립적; Claude, GPT-5, Codex, Gemini CLI, Antigravity, RooCode, OpenHands, Aider, Cline에 배포 가능) |
 | `03-claude-fable-5-os-prompt.md` | Part 5 — Claude Fable 5 최적화 AI 운영체제 프롬프트 |
+| `Opus-4.8-System-Prompt.md` | Part 6 — Claude Opus 4.8 최적화 시스템 프롬프트 (파일 처리 · 도구 사용(MCP/Bash/파일 생성) · 컨텍스트 관리 3축 중심, 명확한 마크다운 구조로 재구성) |
+| `Opus-4.8-Beginner-Guide.md` | Part 7 — 위 프롬프트를 처음 접하는 사람도 적용할 수 있는 한국어 초보자 가이드 (적용 경로 3가지, 자리표시자 표, 섹션별 해설, FAQ, 용어 사전) |
 
 ## 설계 요약
 
