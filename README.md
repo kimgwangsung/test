@@ -14,6 +14,7 @@
 | `02-universal-master-os-prompt.md` | Part 4 — 범용 마스터 AI 운영체제 프롬프트 (모델 독립적; Claude, GPT-5, Codex, Gemini CLI, Antigravity, RooCode, OpenHands, Aider, Cline에 배포 가능) |
 | `03-claude-fable-5-os-prompt.md` | Part 5 — Claude Fable 5 최적화 AI 운영체제 프롬프트 |
 | `04-적용-가이드.md` | 산출물을 각 플랫폼(Claude Code, API, GPT-5/Codex, Gemini, Cline, RooCode, Aider, OpenHands)에 실제로 적용하는 배포 가이드 |
+| `05-claude-opus-4-8-os-prompt.md` | Part 5b — Claude Opus 4.8 최적화 변형 (03과 동일 아키텍처; 관측 기반 검증 강화, 조기 분해, 에스컬레이션 경로 추가 — 델타 감사표 포함) |
 
 ## 설계 요약
 
